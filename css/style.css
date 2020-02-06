@@ -1,0 +1,33 @@
+/* Main CSS Start */
+*{
+	margin: 0;
+	padding: 0;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+body{
+	font-family: sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+	margin: 0 0 15px;
+	font-weight: 700;
+}
+a:focus, input:focus, teaxarea:focus, button:focus{outline: 0 solid;}
+a:hover{
+	text-decoration: none;
+}
+.section-padding{padding: 80px 0;}
+/* Main CSS Stop */
+/* === Icons Section CSS Start === */
+
+.linear_icons {
+  padding: 10px 0;
+}
+.linear_icons i {
+  font-size: 30px;
+  margin: 0 20px;
+  display: inline-block;
+}
+/* === Icons Section CSS Stop === */

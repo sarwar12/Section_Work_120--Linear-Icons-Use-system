@@ -1,0 +1,11 @@
+### Line Icons:
+	https://linearicons.com/free
+	https://simplelineicons.com
+	https://icons8.com (line awesome)
+	https//linea.io
+
+###  linearicons.com/free
+	1) Download free file and unzip this file
+	2) web font --> fonts files include your webfont or any folder
+	3) and web font --> style.css (change this is name) and paste your css folder and linkup your markup file 
+		style.css --> this file chnage fonts path location 
